@@ -66,7 +66,7 @@ Functioning_day:If the day is functioning day or not
 - Rented bike count is high on Functioning day.
 - Feature impotance values for all models are diffrent.
 - We can deploy Random Forest ,Lasso,Linear regression ,Ridge with RandmizedSearchCV.
-- Using Linear regression and Lasso algorithm I got 83% r2 score for test dataset.
+- Using Using Random Forest i got highest r2 score for test dataset that is 93%.
 
 
 
