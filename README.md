@@ -1,5 +1,5 @@
 # SmartRide : Bike Demand Prediction :Machine Learning
-![Bike](https://github.com/user-attachments/assets/3d2a0254-609f-488d-a391-cb85c4b3af42)
+![Bike1](https://github.com/user-attachments/assets/0ba2ecbd-5df9-4345-945e-fc185542d282)
 
 # Problem Statement:-
 Nowadays rental bikes are introduced in many urban cities for the improvement of mobile comfort.It is important to make tental bikes available to the public at the right time.As it makes waste of time . Eventually providing a cities with supply of rental bikes become a major concern.Themain objective is to predict the bikes count required at each hour for supply of rental bikes.
